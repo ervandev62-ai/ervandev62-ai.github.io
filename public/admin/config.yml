@@ -1,6 +1,10 @@
 backend:
   name: git-gateway
-  branch: main # Atau nama branch utama repositori Anda (misal: master)
+  branch: main # sesuaikan dengan branch Anda (main/master)
+
+# Tambahkan baris ini di bawah backend:
+site_url: https://monstermac.netlify.app
+display_url: https://monstermac.netlify.app
 
 media_folder: "public/images/blog"
 public_folder: "/images/blog"
