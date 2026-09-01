@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Copyright © 2026 MonsterMAC. All Rights Reserved."
   },
 
   "google_tag_manager": {
@@ -39,9 +39,8 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+"meta_author": "MonsterMAC",
+"meta_description": "Solusi Vending Machine Modern 24/7 untuk Efisiensi dan Profitabilitas Bisnis Anda."
   },
 
   "llms": {
