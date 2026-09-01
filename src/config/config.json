@@ -1,15 +1,15 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "MonsterMAC",
+    "base_url": "https://monstermac.netlify.app/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo": "/images/MonsterMac Default Logo.png.png",
+    "logo_darkmode": "/images/MonsterMac Default Logo Wt.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "MonsterMAC"
   },
 
   "settings": {
